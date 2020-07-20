@@ -8,7 +8,12 @@
     "build": "tsc",
     "start": "node dist/index.js"
   },
-  "keywords": ["typescript","apollo-server","mongoose","jsonwebtoken"],
+  "keywords": [
+    "typescript",
+    "apollo-server",
+    "mongoose",
+    "jsonwebtoken"
+  ],
   "author": "soyjavierlinares",
   "license": "ISC",
   "devDependencies": {

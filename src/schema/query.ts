@@ -7,7 +7,6 @@ const typeDefs = gql`
     type Query {
         #Users
         getUser(input:String!): User
-        bestSellers: [TopSeller]
 
     }
     type Mutation {

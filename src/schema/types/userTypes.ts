@@ -10,10 +10,6 @@ const typeDefs = gql`
         email: String,
         creationDate: String
     }
-    type TopSeller {
-        total: Float
-        seller: User
-    }
 
     input UserInput {
         name: String!
